@@ -6,10 +6,7 @@
 #include "amazon.h"
 #include "menu.h"
 
-//VERGA COMMIT
-//Done in GITAR
-//3er comentario
-//4to comentario en visual
+
 void cinIntInput(size_t & intRef) {
 	std::string string;
 	std::getline(std::cin, string);
